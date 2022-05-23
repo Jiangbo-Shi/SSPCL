@@ -1,3 +1,3 @@
 # SSPCL
 
-## The source code will be published soon. 
+## The source code and dataset will be published soon. 
