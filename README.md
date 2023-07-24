@@ -2,7 +2,10 @@
 
 ![graph abstract](https://github.com/Jiangbo-Shi/SSPCL/assets/60539295/fe4426b3-65e6-494b-826f-20655d3b2263)
 
-# We will publish the Gastric Cancer Semantic Segmentation (GCSS) dataset soon.
+# Gastric Cancer Semantic Segmentation (GCSS) dataset
+Download link: https://pan.baidu.com/s/1EEmuDCQez1odggab3lElFQ; Extraction code: GCSS
+Annotation: The annotation of each ROI is a pixel matrix with {-1,1,2,3,4,5,6}, which represents others, tumor, lymphoid stroma, desmoplastic stroma, smooth muscle, necrosis, and others, respectively.
+Data statistics: 100 ROIs cropped from the 100 gastric cancer cases of the TCGA-STAD project.
 
 # Citation
 If you find our work helpful for your research, please consider citing:
