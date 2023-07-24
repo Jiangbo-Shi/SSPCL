@@ -3,7 +3,9 @@
 ![graph abstract](https://github.com/Jiangbo-Shi/SSPCL/assets/60539295/fe4426b3-65e6-494b-826f-20655d3b2263)
 
 # Gastric Cancer Semantic Segmentation (GCSS) dataset
-Download link: https://pan.baidu.com/s/1EEmuDCQez1odggab3lElFQ; Extraction code: GCSS
+Download link: 
+-Baidu Cloud: https://pan.baidu.com/s/1EEmuDCQez1odggab3lElFQ; Extraction code: GCSS
+-Zenodo: https://zenodo.org/record/8176354
 
 Annotation: The annotation of each ROI is a pixel matrix with {-1,1,2,3,4,5,6}, which represents others, tumor, lymphoid stroma, desmoplastic stroma, smooth muscle, necrosis, and others, respectively.
 
