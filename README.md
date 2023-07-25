@@ -12,11 +12,13 @@
 # Citation
 If you find our work helpful for your research, please consider citing:
 ```
-@article{shi2022semi,
-  title={Semi-Supervised Pixel Contrastive Learning Framework for Tissue Segmentation in Histopathological Image},
+@ARTICLE{SSPCL,
   author={Shi, Jiangbo and Gong, Tieliang and Wang, Chunbao and Li, Chen},
-  journal={IEEE Journal of Biomedical and Health Informatics},
-  year={2022},
-  publisher={IEEE}
-}
+  journal={IEEE Journal of Biomedical and Health Informatics}, 
+  title={Semi-Supervised Pixel Contrastive Learning Framework for Tissue Segmentation in Histopathological Image}, 
+  year={2023},
+  volume={27},
+  number={1},
+  pages={97-108},
+  doi={10.1109/JBHI.2022.3216293}}
 ```
