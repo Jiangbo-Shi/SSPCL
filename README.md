@@ -6,7 +6,7 @@
 - Download link:  
   - Baidu Cloud: https://pan.baidu.com/s/1EEmuDCQez1odggab3lElFQ; Extraction code: GCSS  
   - Zenodo: https://zenodo.org/record/8176354
-- Annotation: The annotation of each ROI is a pixel matrix. {1,2,3,4,5} represent tumor, lymphoid stroma, desmoplastic stroma, smooth muscle, and necrosis. {-1, 0, 6} represent others. 
+- Annotation: The annotation of each ROI is a pixel matrix. {1,2,3,4,5} represent `tumor`, `lymphoid stroma`, `desmoplastic stroma`, `smooth muscle`, and `necrosis`. {-1, 0, 6} represent `others`. 
 - Data statistics: 100 ROIs cropped from the 100 gastric cancer cases of the TCGA-STAD project.
 
 # Citation
